@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Felipe Castro T. C.</title>
-    <link>https://felipecastrotc.com/tags/</link>
+    <link>https://felipecastrotc.github.io/tags/</link>
     <description>Recent content in Tags on Felipe Castro T. C.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <copyright>© {year}</copyright><atom:link href="https://felipecastrotc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year}</copyright><atom:link href="https://felipecastrotc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
